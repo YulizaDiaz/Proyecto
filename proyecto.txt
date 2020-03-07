@@ -1,2 +1,3 @@
 proyecto git primera linea
 proyecto git segunda linea ----------1451
+proyecto gi esta es la version creada de la segunda 
